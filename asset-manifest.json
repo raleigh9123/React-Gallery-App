@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/React-Gallery-App/static/css/main.58e89fa6.chunk.css",
-    "main.js": "/React-Gallery-App/static/js/main.409e3c50.chunk.js",
-    "main.js.map": "/React-Gallery-App/static/js/main.409e3c50.chunk.js.map",
+    "main.js": "/React-Gallery-App/static/js/main.ef428a87.chunk.js",
+    "main.js.map": "/React-Gallery-App/static/js/main.ef428a87.chunk.js.map",
     "runtime-main.js": "/React-Gallery-App/static/js/runtime-main.ec346e84.js",
     "runtime-main.js.map": "/React-Gallery-App/static/js/runtime-main.ec346e84.js.map",
     "static/js/2.99d32a86.chunk.js": "/React-Gallery-App/static/js/2.99d32a86.chunk.js",
     "static/js/2.99d32a86.chunk.js.map": "/React-Gallery-App/static/js/2.99d32a86.chunk.js.map",
     "index.html": "/React-Gallery-App/index.html",
-    "precache-manifest.347448f69504b419a6535108b039741b.js": "/React-Gallery-App/precache-manifest.347448f69504b419a6535108b039741b.js",
+    "precache-manifest.f7468432e3e6ae126b999680925361a0.js": "/React-Gallery-App/precache-manifest.f7468432e3e6ae126b999680925361a0.js",
     "service-worker.js": "/React-Gallery-App/service-worker.js",
     "static/css/main.58e89fa6.chunk.css.map": "/React-Gallery-App/static/css/main.58e89fa6.chunk.css.map",
     "static/js/2.99d32a86.chunk.js.LICENSE.txt": "/React-Gallery-App/static/js/2.99d32a86.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.ec346e84.js",
     "static/js/2.99d32a86.chunk.js",
     "static/css/main.58e89fa6.chunk.css",
-    "static/js/main.409e3c50.chunk.js"
+    "static/js/main.ef428a87.chunk.js"
   ]
 }
